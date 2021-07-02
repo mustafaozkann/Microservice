@@ -1,0 +1,6 @@
+Services 
+	-catalogAPI	   : http://localhost:5011
+	-photoStockAPI : http://localhost:5012
+	-basketAPI	   : http://localhost:5013
+
+-identityServer	:  http://localhost:5001
